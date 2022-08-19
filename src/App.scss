@@ -15,35 +15,28 @@ html {
 	justify-content: center;
 }
 
-.title-container {
-	height: 50px;
-}
-
 .title-styles {
 	font-family: 'Raleway', sans-serif;
 	font-size: 250%;
 }
 
-.header-icon {
-	height: 150px;
-	width: 150px;
-}
-
 header {
 	position: relative;
-	height: 520px;
-	min-height: 450px;
+	height: 300px!important;
+	min-height: 200px;
 	width: 100%;
 	background-size: cover;
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-image: url(../public/images/bgheader.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	padding-top: 150px;
+	padding-top: 50px;
 	padding-bottom: 0;
 }
 
@@ -51,6 +44,50 @@ header .nav {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 5px;
+}
+
+.nav-link {
+	color: white!important;
+}
+
+.nav-link:hover {
+	color: rgb(255, 0, 64)!important;
+}
+
+.nav-link.active {
+	color: rgb(3, 3, 3)!important;
+	background-color: rgba(200, 200, 200, .5);
+	border: rgb(255, 255, 255) solid 1px;
+	border-radius: 25px;
+	transition-delay: 100ms;
+}
+
+.mb-0 {
+	color: white;
+	background-color: rgba(25, 25, 26, 0.6)!important;
+	font-size: 10rem!important;
+	border-radius: 10px;
+	border: black solid 2px;
+	box-shadow: -2px 10px 43px 10px rgba(0,0,0,0.5);
+  -webkit-box-shadow: -2px 10px 43px 10px rgba(0,0,0,0.5);
+  -moz-box-shadow: -2px 10px 43px 10px rgba(0,0,0,0.5);
+	margin-top: 5rem;
+}
+
+.title-container {
+	color: white;
+	padding-bottom: 4rem!important;
+	font-weight: bold;
+	font-size: 2rem;
+	background-color: rgba(25, 25, 26, 0.6)!important;
+	border: rgb(0, 0, 0) solid 2px;
+	box-shadow: -2px 10px 43px 10px rgba(0,0,0,0.5);
+	-webkit-box-shadow: -2px 10px 43px 10px rgba(0,0,0,0.5);
+	-moz-box-shadow: -2px 10px 43px 10px rgba(0,0,0,0.5);
+}
+
+.title-container a {
+	padding-top: 10rem!important;
 }
 
 .github-corner:hover .octo-arm {
@@ -63,6 +100,8 @@ header .nav {
 	font-size: 50px;
 	cursor: pointer;
 }
+
+
 
 .project-date {
 	font-size: 16px;

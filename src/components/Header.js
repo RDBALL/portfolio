@@ -101,7 +101,6 @@ class Header extends Component {
         <div className="row-aligner">
           <div className="col-md-12">
             <div>
-              <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
               <br/>
               <h1 className="mb-0">
                 {name}
@@ -109,7 +108,6 @@ class Header extends Component {
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
               </div>
-              
             </div>
           </div>
         </div>
