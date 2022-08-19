@@ -15,8 +15,8 @@
         "startDate": "2022",
         "description": "This was the final project for Code Fellows Code 201. This app is a clone of the popular game 'Flappy Bird' but with a git push theme. You must navigate your git push icon through the maze of merge conflicts. This app is built with JavaScript, HTML and CSS while utilizing JSON files and local storage for score keeping.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/flappy-push/p1.jpg",
+          "images/portfolio/flappy-push/p2.jpg"
         ],
         "url": "https://tribe-scary.github.io/201-project/",
         "technologies": [
@@ -39,8 +39,8 @@
         "startDate": "2022",
         "description": "Code Fellows 201 project that introduced rendering DOM elements using JavaScript. Users are able to enter a new 'franchise' location and pass in data. This data is then rendered onto the app and new total values are calculated",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/cookie-stand/p1.jpg",
+          "images/portfolio/cookie-stand/p2.jpg"
         ],
         "url": "https://rdball.github.io/cookie-stand/",
         "technologies": [
@@ -63,8 +63,8 @@
         "startDate": "2022",
         "description": "This is a React powered image gallery that gives the user the ability to sort animals by the number of horns that they have.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/horned-beast/p1.jpg",
+          "images/portfolio/horned-beast/p2.jpg"
         ],
         "url": "https://rdball-horned-beast.netlify.app/",
         "technologies": [
