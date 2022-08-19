@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Robert Ball. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello!",
+      "description": "My name is Rob Ball and I am a software developer with a primary focus in Javascript and front-end development. Prior to beginning my career transition into tech, I served for 9 years as an Infantry Officer in the Army where I continuously led teams to accomplish ambitious goals. My interest in software development was sparked by my passion for building efficiencies and problem solving. I found that coding was a great way to combine those two passions while creating functional applications. In addition to software development, I am also expanding my skill set into Cyber Operations. I am a lifelong learner and am always looking forward to new technologies on the horizon.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",

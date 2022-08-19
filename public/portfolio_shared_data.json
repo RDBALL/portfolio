@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Robert Ball",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Student - Software Dev / Cyber Ops" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/RDBALL",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/rdball/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
