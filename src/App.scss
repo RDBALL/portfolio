@@ -141,11 +141,11 @@ header h1 {
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #02374d;
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background-color: #02374d!important;
 	height: 25px;
 }
 
@@ -396,7 +396,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #02374d;
 	padding-bottom: 5%;
 }
 
@@ -447,6 +447,10 @@ header h1 {
 	letter-spacing: 3px;
 	color: #fff;
 	text-align: center;
+}
+
+.portfolio h1 {
+	color: #fff!important;
 }
 
 .skill-icon {
